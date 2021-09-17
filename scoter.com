@@ -2,8 +2,8 @@
       
       "show": true,
       "CheckR": true,
-      "com": false,
-      "published": false,
+      "com": true,
+      "published": true,
       
       "version": 1,
       "newAppLink": "",
@@ -58,7 +58,7 @@
       },
       "unity": true,
       "adsunity": {
-        "unity_id": "3978659s",
+        "unity_id": "3978659",
         "unity_inters": "video"
       },
       
