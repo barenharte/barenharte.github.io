@@ -1,7 +1,7 @@
     {
       
       "show": true,
-      "CheckR": true,
+      "CheckR": false,
       "com": true,
       "published": true,
       
@@ -49,14 +49,14 @@
         "fan_native": "VID_HD_9_16_39S_APP_INSTALL#147772497126061_147774260459218",
         "fan_native_banner": "IMG_16_9_APP_INSTALL#147772497126061_177597947476849"
       },
-      "admob": true,
+      "admob": false,
       "adsadmb": {
         "admb_banner": "ca-app-pub-9807264092456179/4370535099",
         "admb_openad": "ca-app-pub-9807264092456179/8240114451",
         "admb_inters": "ca-app-pub-9807264092456179/2061718916",
         "admb_native": "ca-app-pub-9807264092456179/3374800584"
       },
-      "unity": false,
+      "unity": true,
       "adsunity": {
         "unity_id": "3978659",
         "unity_inters": "video"
